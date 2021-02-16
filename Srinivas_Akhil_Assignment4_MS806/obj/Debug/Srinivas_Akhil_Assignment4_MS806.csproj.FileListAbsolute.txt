@@ -1,0 +1,12 @@
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\bin\Debug\Srinivas_Akhil_Assignment4_MS806.exe.config
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\bin\Debug\Srinivas_Akhil_Assignment4_MS806.exe
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\bin\Debug\Srinivas_Akhil_Assignment4_MS806.pdb
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.csprojAssemblyReference.cache
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.Properties.Resources.resources
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.csproj.GenerateResource.cache
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.csproj.CoreCompileInputs.cache
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.exe
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.pdb
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.SearchOrderDetails.resources
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.Primaryform.resources
+C:\Users\akhil\source\repos\Srinivas_Akhil_Assignment4_MS806\obj\Debug\Srinivas_Akhil_Assignment4_MS806.StockAvailability.resources

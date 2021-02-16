@@ -1,0 +1,17 @@
+Management Report|Details of Sold Items
+17-01-2021 11:32:23
+	Digital	Analog	Sporty	Leather	Hybrid	Profit
+Cartier	0	0	0	0	0	0
+Benson	0	0	0	0	0	0
+Tudor	0	0	1	0	0	100
+Omega	0	0	0	0	0	0
+Rolex	0	0	0	0	0	0
+Titan	0	0	0	0	0	0
+Gusto	0	0	0	0	0	0
+Timex	0	0	0	0	0	0
+Casio	0	0	0	0	0	0
+Fossil	0	0	0	0	0	0
+Sonata	0	0	0	0	0	0
+Tommy	0	0	0	0	0	0
+Diesel	0	0	0	0	0	0
+ Total Profit Generated Till Now :100
